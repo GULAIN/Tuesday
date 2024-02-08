@@ -1,0 +1,799 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.sport-seB {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.sport-seB .header-yx7 {
+  box-sizing: border-box;
+  padding: 3.3rem 0rem 2.9rem 14.264rem;
+  width: 100%;
+  height: 10.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.sport-seB .header-yx7 .group-34303-sXh {
+  margin: 0rem 114.6rem 0.465rem 0rem;
+  width: 2.4361rem;
+  height: 2.735rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-seB .header-yx7 .menu-msy {
+  width: 79.6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.sport-seB .header-yx7 .menu-msy .menu-WqZ {
+  width: 43.9rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 1.6rem;
+}
+.sport-seB .header-yx7 .menu-msy .menu-WqZ .menu-item-3ab {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.sport-seB .header-yx7 .menu-msy .menu-WqZ .menu-item-3ab .auto-group-irf5-no5 {
+  margin: 0rem 9.5rem 0.2rem 0rem;
+  width: 8.6rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #4f4f4f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sport-seB .header-yx7 .menu-msy .menu-WqZ .menu-item-fby {
+  width: 14.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 0;
+}
+.sport-seB .header-yx7 .menu-msy .menu-WqZ .menu-item-fby .auto-group-3qkd-ngb {
+  margin: 0rem 9.4rem 0.2rem 0rem;
+  width: 5.5rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #4f4f4f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sport-seB .header-yx7 .menu-msy .menu-item-4e7 {
+  box-sizing: border-box;
+  padding: 0.233rem 0rem 0.2rem 0rem;
+  width: 12.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 1.2rem;
+}
+.sport-seB .header-yx7 .menu-msy .menu-item-4e7 .auto-group-qhzd-Ax3 {
+  margin-right: 4rem;
+  width: 8.1rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #4f4f4f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sport-seB .header-yx7 .menu-msy .menu-item-gQb {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 37.7rem;
+  top: 1.6rem;
+}
+.sport-seB .header-yx7 .menu-msy .menu-item-gQb .auto-group-5beb-DfR {
+  margin: 0rem 10.2rem 0.2rem 0rem;
+  width: 7.9rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #4f4f4f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sport-seB .auto-group-lcb5-tmZ {
+  box-sizing: border-box;
+  padding: 5.6rem 6.7rem 9.4rem 8.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-p8kt-otX {
+  margin: 0rem 0rem 6.4rem 5.3rem;
+  width: 171.7rem;
+  height: 115.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-p8kt-otX .rectangle-341-jGP {
+  width: 164.8rem;
+  height: 88.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.4300000072);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('rectangle-341-bg-q9V.png');
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-p8kt-otX .sports-DxF {
+  width: 48.6rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 58.15rem;
+  top: 40.3rem;
+  text-align: center;
+  font-size: 8.3rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 2.1165rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-p8kt-otX .rectangle-347-JTu {
+  width: 86.8rem;
+  height: 57.5rem;
+  position: absolute;
+  left: 84.9rem;
+  top: 58rem;
+  background-color: #7e398d;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-p8kt-otX .sports-events-dm5 {
+  width: 50.2rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 91.3rem;
+  top: 65rem;
+  font-size: 5.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-p8kt-otX .ozamba-events-specializes-in-organizing-a-wide-range-of-sports-events-including-cycling-and-skiing-competitions-we-handle-all-aspects-of-event-planning-from-venue-selection-and-logistics-to-participant-registration-and-race-coordination-our-experienced-team-ensures-that-every-sports-event-is-executed-seamlessly-providing-an-unforgettable-experience-for-athletes-and-spectators-alike-kKu {
+  width: 73.9rem;
+  height: 36.2rem;
+  position: absolute;
+  left: 91.3rem;
+  top: 72.5rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3400000254;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-kxdh-cFd {
+  margin: 0rem 7.4rem 9.4rem 4.9rem;
+  width: calc(100% - 12.3rem);
+  height: 103.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-kxdh-cFd .rectangle-346-KQw {
+  width: 70.7rem;
+  height: 103.7rem;
+  position: relative;
+  background-size: 204.678% 139.544%;
+  background-position: -44.2076rem -39.3137rem;
+  background-image: url('rectangle-346-sWs.png');
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-kxdh-cFd .auto-group-mtib-QxB {
+  box-sizing: border-box;
+  padding-left: 6.5rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-kxdh-cFd .auto-group-mtib-QxB .line-4-ZKH {
+  margin-right: 2.7rem;
+  width: 0rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-kxdh-cFd .auto-group-mtib-QxB .auto-group-upk1-Vij {
+  margin: 9.6rem 1.8rem 0rem 0rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-kxdh-cFd .auto-group-mtib-QxB .auto-group-upk1-Vij .auto-group-evjw-2if {
+  margin: 0rem 0.7rem 35.35rem 0rem;
+  width: 9.7rem;
+  height: 9.6497rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-kxdh-cFd .auto-group-mtib-QxB .auto-group-upk1-Vij .auto-group-evjw-2if .rectangle-353-Ywu {
+  width: 7.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 1rem;
+  top: 1.2rem;
+  background-color: rgba(126, 57, 141, 0.3799999952);
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-kxdh-cFd .auto-group-mtib-QxB .auto-group-upk1-Vij .auto-group-evjw-2if .football-Uaf {
+  width: 9.7rem;
+  height: 9.6497rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-kxdh-cFd .auto-group-mtib-QxB .auto-group-upk1-Vij .auto-group-r5bq-zou {
+  margin-left: 0.7rem;
+  width: 9.7rem;
+  height: 9.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-kxdh-cFd .auto-group-mtib-QxB .auto-group-upk1-Vij .auto-group-r5bq-zou .rectangle-352-k2P {
+  width: 7.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 1rem;
+  top: 1.3rem;
+  background-color: rgba(126, 57, 141, 0.3799999952);
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-kxdh-cFd .auto-group-mtib-QxB .auto-group-upk1-Vij .auto-group-r5bq-zou .match-4Ys {
+  width: 9.7rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-kxdh-cFd .auto-group-mtib-QxB .auto-group-hyy7-zxK {
+  margin: 8.5rem 0rem 4.2rem 0rem;
+  height: calc(100% - 12.7rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-kxdh-cFd .auto-group-mtib-QxB .auto-group-hyy7-zxK .friendly-matches-v5H {
+  margin-bottom: 2.8rem;
+  font-size: 5.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-kxdh-cFd .auto-group-mtib-QxB .auto-group-hyy7-zxK .we-curate-friendly-matches-that-bring-together-teams-or-individuals-for-enjoyable-and-competitive-sporting-experiences-whether-its-a-casual-soccer-match-or-an-exhibition-tennis-game-ozamba-events-ensures-that-every-aspect-from-scheduling-to-officiating-is-meticulously-planned-for-maximum-enjoyment-and-fair-play-2u1 {
+  margin-bottom: 5.2rem;
+  max-width: 72.6rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3400000254;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-kxdh-cFd .auto-group-mtib-QxB .auto-group-hyy7-zxK .tournaments-SSw {
+  margin-bottom: 2.8rem;
+  font-size: 5.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-kxdh-cFd .auto-group-mtib-QxB .auto-group-hyy7-zxK .ozamba-events-excels-in-organizing-tournaments-of-various-scales-and-disciplines-from-local-community-tournaments-to-larger-regional-or-national-events-we-manage-all-aspects-including-participant-recruitment-bracketing-scheduling-and-awards-ceremonies-our-goal-is-to-create-a-vibrant-and-competitive-environment-for-participants-and-an-engaging-experience-for-spectators-9s9 {
+  max-width: 72.2rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3400000254;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-dyd9-8DH {
+  margin-right: 7.1rem;
+  width: calc(100% - 7.1rem);
+  height: 103.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-dyd9-8DH .auto-group-dmgw-3r3 {
+  box-sizing: border-box;
+  padding-right: 10.8rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-dyd9-8DH .auto-group-dmgw-3r3 .auto-group-31fq-Pf1 {
+  margin: 2.7rem 2.5rem 0rem 0rem;
+  width: 9.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-dyd9-8DH .auto-group-dmgw-3r3 .auto-group-31fq-Pf1 .auto-group-iw9v-7qu {
+  margin-bottom: 48.4495rem;
+  width: 100%;
+  height: 9.7505rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-dyd9-8DH .auto-group-dmgw-3r3 .auto-group-31fq-Pf1 .auto-group-iw9v-7qu .rectangle-351-T95 {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 1.9rem;
+  background-color: rgba(126, 57, 141, 0.3799999952);
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-dyd9-8DH .auto-group-dmgw-3r3 .auto-group-31fq-Pf1 .auto-group-iw9v-7qu .badge-nBM {
+  width: 9.7rem;
+  height: 9.7505rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-dyd9-8DH .auto-group-dmgw-3r3 .auto-group-31fq-Pf1 .auto-group-y6hh-Wd9 {
+  width: 100%;
+  height: 9.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-dyd9-8DH .auto-group-dmgw-3r3 .auto-group-31fq-Pf1 .auto-group-y6hh-Wd9 .rectangle-350-rwu {
+  width: 7.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 1rem;
+  top: 1.3rem;
+  background-color: rgba(126, 57, 141, 0.3799999952);
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-dyd9-8DH .auto-group-dmgw-3r3 .auto-group-31fq-Pf1 .auto-group-y6hh-Wd9 .signature-BzB {
+  width: 9.7rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-dyd9-8DH .auto-group-dmgw-3r3 .auto-group-3cfd-KqV {
+  margin: 1.7rem 6.9rem 0.9rem 0rem;
+  width: 63rem;
+  height: calc(100% - 2.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-dyd9-8DH .auto-group-dmgw-3r3 .auto-group-3cfd-KqV .auto-group-pshm-qoq {
+  box-sizing: border-box;
+  padding: 0rem 0.1rem 5.2rem 0.1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-dyd9-8DH .auto-group-dmgw-3r3 .auto-group-3cfd-KqV .auto-group-pshm-qoq .brand-sport-activations-AbD {
+  margin-bottom: 1.5rem;
+  max-width: 45.3rem;
+  font-size: 5.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-dyd9-8DH .auto-group-dmgw-3r3 .auto-group-3cfd-KqV .auto-group-pshm-qoq .we-specialize-in-leveraging-the-power-of-sports-to-elevate-brand-visibility-and-engagement-our-team-designs-and-executes-brand-activations-within-the-sports-industry-crafting-experiences-that-resonate-with-target-audiences-from-sponsorships-and-endorsements-to-interactive-experiences-we-help-brands-make-a-lasting-impact-in-the-world-of-sports-5TH {
+  max-width: 61.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3400000254;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-dyd9-8DH .auto-group-dmgw-3r3 .auto-group-3cfd-KqV .auto-group-jy9h-fgP {
+  width: 100%;
+  height: 42.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-dyd9-8DH .auto-group-dmgw-3r3 .auto-group-3cfd-KqV .auto-group-jy9h-fgP .ozamba-events-organise-special-events-that-demand-precision-and-flair-this-includes-player-signings-product-presentations-and-press-conferences-we-handle-all-logistical-details-ensuring-that-these-events-leave-a-memorable-impression-on-attendees-media-and-stakeholders-R9m {
+  width: 63rem;
+  height: 32.2rem;
+  position: absolute;
+  left: 0;
+  top: 10.1rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3400000254;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-dyd9-8DH .auto-group-dmgw-3r3 .auto-group-3cfd-KqV .auto-group-jy9h-fgP .special-events-signings-presentations-press-conferences-QXV {
+  width: 53.3rem;
+  height: 11.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 5.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-dyd9-8DH .auto-group-dmgw-3r3 .auto-group-3cfd-KqV .auto-group-jy9h-fgP .special-events-signings-presentations-press-conferences-QXV .special-events-signings-presentations-press-conferences-QXV-sub-0 {
+  font-size: 5.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-dyd9-8DH .auto-group-dmgw-3r3 .auto-group-3cfd-KqV .auto-group-jy9h-fgP .special-events-signings-presentations-press-conferences-QXV .special-events-signings-presentations-press-conferences-QXV-sub-1 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 2.95;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-dyd9-8DH .auto-group-dmgw-3r3 .line-5-GrX {
+  width: 0rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.sport-seB .auto-group-lcb5-tmZ .auto-group-dyd9-8DH .rectangle-348-p7M {
+  width: 77rem;
+  height: 103.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 {
+  box-sizing: border-box;
+  padding: 3.947rem 7.8rem 4.5rem 7.9rem;
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #7e398d;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d {
+  margin: 0rem 4.3rem 2.547rem 4.3rem;
+  width: calc(100% - 8.6rem);
+  height: 5.5057rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .menu-aVq {
+  margin: 1.853rem 85.4rem 1.253rem 0rem;
+  width: 61.5rem;
+  height: calc(100% - 3.1057rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .menu-aVq .menu-item-tmR {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .menu-aVq .menu-item-tmR .auto-group-4euh-qgf {
+  margin: 0rem 13.5rem 0.2rem 0rem;
+  width: 4.6rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .menu-aVq .menu-item-vTD {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .menu-aVq .menu-item-vTD .auto-group-ewp1-4ZR {
+  margin: 0rem 7.5rem 0.2rem 0rem;
+  width: 10.6rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .menu-aVq .menu-item-YjV {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 21.6rem;
+  top: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .menu-aVq .menu-item-YjV .auto-group-de7d-5zK {
+  margin: 0rem 10rem 0.2rem 0rem;
+  width: 8.1rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .menu-aVq .menu-item-AF5 {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 32.9rem;
+  top: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .menu-aVq .menu-item-AF5 .auto-group-6io5-6eX {
+  margin: 0rem 10.8rem 0.2rem 0rem;
+  width: 7.3rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .menu-aVq .menu-item-yyD {
+  width: 7.2rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 42.6rem;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .group-Hj1 {
+  width: 20.8rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .group-Hj1 .group-EPM {
+  margin-bottom: 0.7539rem;
+  width: 0.5079rem;
+  height: 0.4977rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .group-Hj1 .group-Mym {
+  margin: 0rem 0.508rem 0.887rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .group-Hj1 .group-Mym .vector-6gT {
+  margin: 0rem 0.975rem 0.008rem 0rem;
+  width: 2.4957rem;
+  height: 2.4927rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .group-Hj1 .group-Mym .vector-psM {
+  margin: 0rem 0.975rem 0.006rem 0rem;
+  width: 2.2334rem;
+  height: 2.4954rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .group-Hj1 .group-Mym .vector-M6b {
+  margin: 0.003rem 0.975rem 0rem 0rem;
+  width: 2.6515rem;
+  height: 2.4867rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .group-Hj1 .group-Mym .vector-fsy {
+  margin: 0rem 0.975rem 0.009rem 0rem;
+  width: 3.1194rem;
+  height: 2.493rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .group-Hj1 .group-Mym .vector-oDV {
+  margin: 0.007rem 0.975rem 0rem 0rem;
+  width: 2.2648rem;
+  height: 2.4957rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .group-Hj1 .group-Mym .vector-WNo {
+  margin-top: 0.003rem;
+  width: 2.6515rem;
+  height: 2.4867rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .group-Hj1 .group-SXM {
+  margin: 0rem 6.421rem 0rem 5.912rem;
+  width: calc(100% - 12.3329rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .group-Hj1 .group-SXM .vector-AiF {
+  margin: 0.003rem 0.916rem 0rem 0rem;
+  width: 0.5113rem;
+  height: 0.8386rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .group-Hj1 .group-SXM .vector-VkX {
+  margin: 0.003rem 0.916rem 0rem 0rem;
+  width: 0.7316rem;
+  height: 0.8389rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .group-Hj1 .group-SXM .auto-group-vv1y-pXu {
+  margin: 0.003rem 0.916rem 0rem 0rem;
+  width: 0.7467rem;
+  height: 0.8383rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .group-Hj1 .group-SXM .vector-j95 {
+  margin: 0.003rem 0.916rem 0rem 0rem;
+  width: 0.6563rem;
+  height: 0.8386rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .group-Hj1 .group-SXM .vector-4BM {
+  margin: 0.003rem 0.916rem 0rem 0rem;
+  width: 0.6755rem;
+  height: 0.8386rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .group-34280-s5d .group-Hj1 .group-SXM .vector-Bmm {
+  width: 0.5655rem;
+  height: 0.8652rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .rectangle-11-vzF {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #c1c7cd;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .auto-group-lxgf-gCj {
+  margin: 0rem 1.1rem 0rem 71.25rem;
+  width: calc(100% - 72.35rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .auto-group-lxgf-gCj .ozamba-events-all-rights-are-reserved-oYF {
+  margin-right: 63.65rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4000000272;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .auto-group-lxgf-gCj .social-icons-Jzo {
+  box-sizing: border-box;
+  padding: 0.2rem 0.204rem 0.203rem 0.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .auto-group-lxgf-gCj .social-icons-Jzo .icon-jam-icons-outline-logos-instagram-3Sb {
+  margin-right: 2.0035rem;
+  width: 1.9965rem;
+  height: 1.9965rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-seB .footer-YZ9 .auto-group-lxgf-gCj .social-icons-Jzo .icon-jam-icons-outline-logos-linkedin-kM1 {
+  margin-bottom: 0.0841rem;
+  width: 1.9959rem;
+  height: 1.9072rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

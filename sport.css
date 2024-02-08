@@ -1,0 +1,668 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.sport-GZ1 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.sport-GZ1 .header-oJ3 {
+  box-sizing: border-box;
+  padding: 3.3rem 0rem 2.9rem 14.264rem;
+  width: 100%;
+  height: 10.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.sport-GZ1 .header-oJ3 .group-34303-vNf {
+  margin: 0rem 114.6rem 0.465rem 0rem;
+  width: 2.4361rem;
+  height: 2.7351rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-GZ1 .header-oJ3 .menu-RqD {
+  width: 79.6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.sport-GZ1 .header-oJ3 .menu-RqD .menu-Ano {
+  width: 43.9rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 1.6rem;
+}
+.sport-GZ1 .header-oJ3 .menu-RqD .menu-Ano .menu-item-Vq5 {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.sport-GZ1 .header-oJ3 .menu-RqD .menu-Ano .menu-item-Vq5 .auto-group-nxbh-3bh {
+  margin: 0rem 9.5rem 0.2rem 0rem;
+  width: 8.6rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #4f4f4f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sport-GZ1 .header-oJ3 .menu-RqD .menu-Ano .menu-item-7bZ {
+  width: 14.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 0;
+}
+.sport-GZ1 .header-oJ3 .menu-RqD .menu-Ano .menu-item-7bZ .auto-group-chkh-eLb {
+  margin: 0rem 9.4rem 0.2rem 0rem;
+  width: 5.5rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #4f4f4f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sport-GZ1 .header-oJ3 .menu-RqD .menu-item-vJ7 {
+  box-sizing: border-box;
+  padding: 0.233rem 0rem 0.2rem 0rem;
+  width: 12.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 1.2rem;
+}
+.sport-GZ1 .header-oJ3 .menu-RqD .menu-item-vJ7 .auto-group-aa3v-EZh {
+  margin-right: 4rem;
+  width: 8.1rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #4f4f4f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sport-GZ1 .header-oJ3 .menu-RqD .menu-item-XYo {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 37.7rem;
+  top: 1.6rem;
+}
+.sport-GZ1 .header-oJ3 .menu-RqD .menu-item-XYo .auto-group-yrfu-f9D {
+  margin: 0rem 10.2rem 0.2rem 0rem;
+  width: 7.9rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #4f4f4f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sport-GZ1 .auto-group-5ppf-XBR {
+  width: 100%;
+  height: 237.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-h1tf-rUb {
+  width: 164.8rem;
+  height: 88.8rem;
+  position: absolute;
+  left: 13.6rem;
+  top: 5.6rem;
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-h1tf-rUb .rectangle-341-pZq {
+  width: 164.8rem;
+  height: 88.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.4300000072);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('rectangle-341-bg-1DM.png');
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-h1tf-rUb .sports-hdd {
+  width: 48.6rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 58.15rem;
+  top: 40.3rem;
+  text-align: center;
+  font-size: 8.3rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 2.1165rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sport-GZ1 .auto-group-5ppf-XBR .line-3-ZQw {
+  width: 175rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 146.1rem;
+  background-color: #222222;
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-tmpz-tCK {
+  width: 175rem;
+  height: 56.3rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 160.3rem;
+  display: flex;
+  align-items: flex-start;
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-tmpz-tCK .ozamba-events-excels-in-organizing-tournaments-of-various-scales-and-disciplines-from-local-community-tournaments-to-larger-regional-or-national-events-we-manage-all-aspects-including-participant-recruitment-bracketing-scheduling-and-awards-ceremonies-our-goal-is-to-create-a-vibrant-and-competitive-environment-for-participants-and-an-engaging-experience-for-spectators-p5y {
+  margin-right: 8.8rem;
+  max-width: 51rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3400000254;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-tmpz-tCK .auto-group-nsvh-BKq {
+  width: 115.2rem;
+  flex-shrink: 0;
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-tmpz-tCK .auto-group-nsvh-BKq .we-specialize-in-leveraging-the-power-of-sports-to-elevate-brand-visibility-and-engagement-our-team-designs-and-executes-brand-activations-within-the-sports-industry-crafting-experiences-that-resonate-with-target-audiences-from-sponsorships-and-endorsements-to-interactive-experiences-we-help-brands-make-a-lasting-impact-in-the-world-of-sports-XPh {
+  margin-bottom: 3.7rem;
+  max-width: 109.9rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3400000254;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-tmpz-tCK .auto-group-nsvh-BKq .line-6-Jom {
+  margin-bottom: 3.8rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #222222;
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-tmpz-tCK .auto-group-nsvh-BKq .auto-group-6pa3-FU7 {
+  width: 108rem;
+  height: 27rem;
+  position: relative;
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-tmpz-tCK .auto-group-nsvh-BKq .auto-group-6pa3-FU7 .ozamba-events-organise-special-events-that-demand-precision-and-flair-this-includes-player-signings-product-presentations-and-press-conferences-we-handle-all-logistical-details-ensuring-that-these-events-leave-a-memorable-impression-on-attendees-media-and-stakeholders-bH5 {
+  width: 108rem;
+  height: 16.1rem;
+  position: absolute;
+  left: 0;
+  top: 10.9rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3400000254;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-tmpz-tCK .auto-group-nsvh-BKq .auto-group-6pa3-FU7 .special-events-signings-presentations-press-conferences-Nx3 {
+  width: 53.3rem;
+  height: 11.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 5.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-tmpz-tCK .auto-group-nsvh-BKq .auto-group-6pa3-FU7 .special-events-signings-presentations-press-conferences-Nx3 .special-events-signings-presentations-press-conferences-Nx3-sub-0 {
+  font-size: 5.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-tmpz-tCK .auto-group-nsvh-BKq .auto-group-6pa3-FU7 .special-events-signings-presentations-press-conferences-Nx3 .special-events-signings-presentations-press-conferences-Nx3-sub-1 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 2.95;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-wutq-zVZ {
+  width: 154.4rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 100rem;
+  display: flex;
+  align-items: center;
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-wutq-zVZ .sports-events-usR {
+  font-size: 5.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-wutq-zVZ .auto-group-hcnf-rXm {
+  box-sizing: border-box;
+  padding-left: 37.3rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-wutq-zVZ .auto-group-hcnf-rXm .line-4-1Qf {
+  margin-right: 4.6rem;
+  width: 0rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-wutq-zVZ .auto-group-hcnf-rXm .friendly-matches-kNF {
+  font-size: 5.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-tljf-Up3 {
+  width: 174.2rem;
+  height: 32.2rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 108.7rem;
+  display: flex;
+  align-items: flex-start;
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-tljf-Up3 .ozamba-events-specializes-in-organizing-a-wide-range-of-sports-events-including-cycling-and-skiing-competitions-we-handle-all-aspects-of-event-planning-from-venue-selection-and-logistics-to-participant-registration-and-race-coordination-our-experienced-team-ensures-that-every-sports-event-is-executed-seamlessly-providing-an-unforgettable-experience-for-athletes-and-spectators-alike-Czw {
+  margin-right: 9.3rem;
+  max-width: 82.8rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3400000254;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-tljf-Up3 .we-curate-friendly-matches-that-bring-together-teams-or-individuals-for-enjoyable-and-competitive-sporting-experiences-whether-its-a-casual-soccer-match-or-an-exhibition-tennis-game-ozamba-events-ensures-that-every-aspect-from-scheduling-to-officiating-is-meticulously-planned-for-maximum-enjoyment-and-fair-play-B6B {
+  max-width: 82.1rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3400000254;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.sport-GZ1 .auto-group-5ppf-XBR .line-5-NRZ {
+  width: 0rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 64.1rem;
+  top: 150.3rem;
+  background-color: #000000;
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-jejw-W1y {
+  width: 148.1rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 151.6rem;
+  display: flex;
+  align-items: center;
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-jejw-W1y .tournaments-Rej {
+  margin-right: 12rem;
+  font-size: 5.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sport-GZ1 .auto-group-5ppf-XBR .auto-group-jejw-W1y .brand-sport-activations-YzF {
+  font-size: 5.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #222222;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm {
+  box-sizing: border-box;
+  padding: 3.947rem 7.8rem 4.5rem 7.9rem;
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #7e398d;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm {
+  margin: 0rem 4.3rem 2.547rem 4.3rem;
+  width: calc(100% - 8.6rem);
+  height: 5.5057rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .menu-JM9 {
+  margin: 1.853rem 85.4rem 1.253rem 0rem;
+  width: 61.5rem;
+  height: calc(100% - 3.1057rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .menu-JM9 .menu-item-CSX {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .menu-JM9 .menu-item-CSX .auto-group-7e7d-w9D {
+  margin: 0rem 13.5rem 0.2rem 0rem;
+  width: 4.6rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .menu-JM9 .menu-item-Pmu {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .menu-JM9 .menu-item-Pmu .auto-group-rkj9-8Ub {
+  margin: 0rem 7.5rem 0.2rem 0rem;
+  width: 10.6rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .menu-JM9 .menu-item-Qh1 {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 21.6rem;
+  top: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .menu-JM9 .menu-item-Qh1 .auto-group-7pa7-9Ph {
+  margin: 0rem 10rem 0.2rem 0rem;
+  width: 8.1rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .menu-JM9 .menu-item-2yH {
+  width: 18.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 32.9rem;
+  top: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .menu-JM9 .menu-item-2yH .auto-group-2uhm-NGT {
+  margin: 0rem 10.8rem 0.2rem 0rem;
+  width: 7.3rem;
+  height: 2.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .menu-JM9 .menu-item-rBd {
+  width: 7.2rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 42.6rem;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .group-vxB {
+  width: 20.8rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .group-vxB .group-H23 {
+  margin-bottom: 0.754rem;
+  width: 0.5079rem;
+  height: 0.4977rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .group-vxB .group-Bt7 {
+  margin: 0rem 0.508rem 0.887rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .group-vxB .group-Bt7 .vector-hrT {
+  margin: 0rem 0.975rem 0.008rem 0rem;
+  width: 2.4957rem;
+  height: 2.4927rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .group-vxB .group-Bt7 .vector-RXZ {
+  margin: 0rem 0.975rem 0.006rem 0rem;
+  width: 2.2334rem;
+  height: 2.4954rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .group-vxB .group-Bt7 .vector-MAK {
+  margin: 0.003rem 0.975rem 0rem 0rem;
+  width: 2.6515rem;
+  height: 2.4867rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .group-vxB .group-Bt7 .vector-UVq {
+  margin: 0rem 0.975rem 0.009rem 0rem;
+  width: 3.1194rem;
+  height: 2.493rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .group-vxB .group-Bt7 .vector-cM9 {
+  margin: 0.007rem 0.975rem 0rem 0rem;
+  width: 2.2648rem;
+  height: 2.4957rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .group-vxB .group-Bt7 .vector-YVh {
+  margin-top: 0.0031rem;
+  width: 2.6515rem;
+  height: 2.4867rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .group-vxB .group-4iw {
+  margin: 0rem 6.421rem 0rem 5.912rem;
+  width: calc(100% - 12.3329rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .group-vxB .group-4iw .vector-nuq {
+  margin: 0.003rem 0.916rem 0rem 0rem;
+  width: 0.5113rem;
+  height: 0.8386rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .group-vxB .group-4iw .vector-ujZ {
+  margin: 0.003rem 0.916rem 0rem 0rem;
+  width: 0.7316rem;
+  height: 0.8389rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .group-vxB .group-4iw .auto-group-wkph-Emq {
+  margin: 0.003rem 0.916rem 0rem 0rem;
+  width: 0.7467rem;
+  height: 0.8384rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .group-vxB .group-4iw .vector-A9h {
+  margin: 0.003rem 0.916rem 0rem 0rem;
+  width: 0.6563rem;
+  height: 0.8386rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .group-vxB .group-4iw .vector-VSs {
+  margin: 0.003rem 0.916rem 0rem 0rem;
+  width: 0.6755rem;
+  height: 0.8386rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .group-34280-QFm .group-vxB .group-4iw .vector-2Bu {
+  width: 0.5655rem;
+  height: 0.8652rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .rectangle-11-xLT {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #c1c7cd;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .auto-group-ghe3-hJ3 {
+  margin: 0rem 1.1rem 0rem 71.25rem;
+  width: calc(100% - 72.35rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .auto-group-ghe3-hJ3 .ozamba-events-all-rights-are-reserved-pNf {
+  margin-right: 63.65rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4000000272;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .auto-group-ghe3-hJ3 .social-icons-iiw {
+  box-sizing: border-box;
+  padding: 0.2rem 0.204rem 0.203rem 0.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .auto-group-ghe3-hJ3 .social-icons-iiw .icon-jam-icons-outline-logos-instagram-FD5 {
+  margin-right: 2.0035rem;
+  width: 1.9965rem;
+  height: 1.9965rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sport-GZ1 .footer-gKm .auto-group-ghe3-hJ3 .social-icons-iiw .icon-jam-icons-outline-logos-linkedin-9pF {
+  margin-bottom: 0.084rem;
+  width: 1.9959rem;
+  height: 1.9072rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+
+
+.home{
+  font-size: 16px;
+  margin-top: 50%;
+}
